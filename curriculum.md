@@ -1,21 +1,21 @@
 # 백엔드 기초 쌓기 커리큘럼
-1. OOP(객체 지향)
-2. HTTP
-3. REST API
-4. JSON
-5. 디자인 패턴
-6. DSA
-7. GIT
-8. CICD, ATDD
-9. Cors
-10. DTO, VO, Entity
-11. DI
-12. Layered Architecture ( Spring으로 구현)
-13. Junit, Mockito
-14. DDD, DDD Lite
-15. MSA
-16. CQRS
-17. 실시간 통신 (Chat)
+- [ ] 1. OOP(객체 지향)
+- [ ] 2. HTTP
+- [ ] 3. REST API
+- [ ] 4. JSON
+- [ ] 5. 디자인 패턴
+- [ ] 6. DSA
+- [ ] 7. GIT
+- [ ] 8. CICD, ATDD
+- [ ] 9. Cors
+- [ ] 10. DTO, VO, Entity
+- [ ] 11. DI
+- [ ] 12. Layered Architecture
+- [ ] 13. Junit, Mockito
+- [ ] 14. DDD, DDD Lite
+- [ ] 15. MSA
+- [ ] 16. CQRS
+- [ ] 17. 실시간 통신 (Chat)
 
 
 
