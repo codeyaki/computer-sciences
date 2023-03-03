@@ -7,6 +7,7 @@
 ## 1. Network  
 - [HTTP (1) - 특징, 메시지](https://github.com/5onchangwoo/computer-sciences/blob/main/network/http1.md)
 - [HTTP (2) - 메소드, API](https://github.com/5onchangwoo/computer-sciences/blob/main/network/http2.md)
+- [HTTP (3) - 상태코드](https://github.com/5onchangwoo/computer-sciences/blob/main/network/http3.md)
 - [블로킹, 논블로킹, Sync, Async 차이](https://github.com/5onchangwoo/computer-sciences/blob/main/network/SyncVsAsync%26blockingVsNonblocking.md)
 ## 2. Web  
 - [REST, REST API, RESTful API](https://github.com/5onchangwoo/computer-sciences/blob/main/web/REST%2C%20REST%20API%2C%20RESTful%20API.md)
