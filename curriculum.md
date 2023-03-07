@@ -2,7 +2,7 @@
 - [x] 1. OOP(객체 지향)
 - [x] 2. HTTP
 - [x] 3. REST API
-- [ ] 4. JSON
+- [x] 4. JSON
 - [ ] 5. 디자인 패턴
 - [ ] 6. DSA
 - [ ] 7. GIT
