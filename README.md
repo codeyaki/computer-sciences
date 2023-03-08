@@ -10,7 +10,10 @@
 - [HTTP (2) - 메소드, API](https://github.com/5onchangwoo/computer-sciences/blob/main/network/http2.md)
 - [HTTP (3) - 상태코드](https://github.com/5onchangwoo/computer-sciences/blob/main/network/http3.md)
 - [블로킹, 논블로킹, Sync, Async 차이](https://github.com/5onchangwoo/computer-sciences/blob/main/network/SyncVsAsync%26blockingVsNonblocking.md)
+
 ## 2. Web  
 - [REST, REST API, RESTful API](https://github.com/5onchangwoo/computer-sciences/blob/main/web/REST%2C%20REST%20API%2C%20RESTful%20API.md)
 - [JSON](https://github.com/5onchangwoo/computer-sciences/blob/main/web/JSON.md)
 
+## 3. DesignPattern (디자인 패턴)
+- [디자인 패턴 개요](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4%20%EA%B0%9C%EC%9A%94.md)
