@@ -34,3 +34,10 @@ S: 슬레이브
 
 ![image](https://github.com/5onchangwoo/computer-sciences/assets/96860725/942756dc-1786-4976-a954-5f93c3f74e66)
 - 복사본이 여러군데 나눠져 있어 병목현상 X
+
+### 속도 차이
+
+![image](https://github.com/5onchangwoo/computer-sciences/assets/96860725/910cd0d2-153d-4559-8376-b90da6b6a5e9)
+- 볼륨 시스템으로 인해 속도가 많이 차이나게 된다. (쓰기에서 엄청난 속도 차이)
+- MySQL 최신 버전에서는 다른 결과가 나올 수 있다.
+
