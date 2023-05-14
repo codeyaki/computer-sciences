@@ -22,3 +22,6 @@
 
 ## 4. Infra
 - [컨테이너](https://github.com/5onchangwoo/computer-sciences/blob/main/Infra/Container.md)
+### AWS
+- [AWS RDS & Aurora](https://github.com/5onchangwoo/computer-sciences/blob/main/aws/RDS%2C%20Aurora.md)
+- [DynamoDB & Elasticache](https://github.com/5onchangwoo/computer-sciences/blob/main/aws/DynamoDB,%20Elasticache.md)
