@@ -17,11 +17,11 @@
 
 ## 3. DesignPattern (디자인 패턴)
 - [디자인 패턴 개요](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4%20%EA%B0%9C%EC%9A%94.md)
-    ### 생성 패턴
+  ### 생성 패턴
 - [싱글톤 패턴(Singleton)](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/singleton.md)
 
 ## 4. Infra
 - [컨테이너](https://github.com/5onchangwoo/computer-sciences/blob/main/Infra/Container.md)
-    ### AWS
+  ### AWS
 - [AWS RDS & Aurora](https://github.com/5onchangwoo/computer-sciences/blob/main/aws/RDS%2C%20Aurora.md)
 - [DynamoDB & Elasticache](https://github.com/5onchangwoo/computer-sciences/blob/main/aws/DynamoDB,%20Elasticache.md)
