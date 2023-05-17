@@ -79,3 +79,4 @@
 ## 참고자료  
   
 http://wiki.hash.kr/index.php/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98
+https://nesoy.github.io/articles/2019-05/Database-Transaction-isolation
