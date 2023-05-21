@@ -3,7 +3,7 @@
 - 팩토리 메서드 패턴은 부모(상위)클래스에 알려지지 않은 추상 클래스를 생성하는 패턴으로 자식(하위)클래스가 직접 어떤 객체를 생성할지 결정하도록 하는 패턴! 
 - 즉, 객체 생성을 위한 패턴으로 생성과 사용의 분리를 통해서 유연하게 객체를 생성할 수 있게 된다.
 - 또한 객체 생성에 필요한 과정들을 템플릿처럼 정해놓고 각 과정을 구현할 수 있다.
-![image](https://github.com/5onchangwoo/computer-sciences/assets/96860725/59a35a1c-0ebf-4040-a275-47b96222266d)
+![image](https://github.com/5onchangwoo/computer-sciences/assets/96860725/708adb19-6db3-488c-80fb-e900001b029c)
 
 ## 왜 사용하나요?
 - 생성자 (Creator)와 구현 객체(concrete product)의 강한 결합을 피함
@@ -27,6 +27,6 @@
 - 코드 복잡성 증가
 
 ## 구현 방법 (자바)
-- ![UML](https://github.com/5onchangwoo/design-pattern/blob/main/src/com/example/dessignpattern/creational/factorymethod/PizzaFactory.png)
+![UML](https://github.com/5onchangwoo/design-pattern/blob/main/src/com/example/dessignpattern/creational/factorymethod/PizzaFactory.png)
 - [자바 코드 보러가기](https://github.com/5onchangwoo/design-pattern/tree/main/src/com/example/dessignpattern/creational/factorymethod)
 
