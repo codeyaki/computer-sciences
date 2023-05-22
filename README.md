@@ -19,14 +19,14 @@
 
 ## 3. DesignPattern (디자인 패턴)
 - [디자인 패턴 개요](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4%20%EA%B0%9C%EC%9A%94.md)
-  ### 생성 패턴
+### 생성 패턴
 - [싱글톤 패턴(Singleton)](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/singleton.md)
 - [팩토리 메서드 패턴(Factory method)](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/factory_method.md)
 
 ## 4. Infra
 - [컨테이너](https://github.com/5onchangwoo/computer-sciences/blob/main/Infra/Container.md)
 
-  ### AWS
+### AWS
 - [AWS란](https://github.com/5onchangwoo/computer-sciences/blob/main/aws/AWS%EB%9E%80.md)
 - [AWS Infra Server](https://github.com/5onchangwoo/computer-sciences/blob/main/aws/AWS%20Infra%20Service(VPC%2C%20API%20Gateway%2C%20ARN%2C%20ELB%2C%20S3%2C%20CloudFront).md)
 - [AWS Computing Service](https://github.com/5onchangwoo/computer-sciences/blob/main/aws/Computing%20Power%20%EC%84%9C%EB%B9%84%EC%8A%A4%20(AWS%20EC2%2C%20AWS%20Elastic%20Beanstalk%2C%20AWS%20ECS%2C%20AWS%20Fargate%2C%20AWS%20Lambda%20(Serverless)).md)
@@ -40,7 +40,8 @@
 ## 6. Algorithm & Data Structure
 
 ## 7. Language
-  ### JAVA
+
+### JAVA
 - [JVM](https://github.com/5onchangwoo/computer-sciences/blob/main/language/java/JVM.md)
 
 ## 8. Framework & Library
