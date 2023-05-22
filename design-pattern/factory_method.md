@@ -27,6 +27,6 @@
 - 코드 복잡성 증가
 
 ## 구현 방법 (자바)
-![UML](https://github.com/5onchangwoo/design-pattern/blob/main/src/com/example/dessignpattern/creational/factorymethod/PizzaFactory.png)
+![UML](https://github.com/5onchangwoo/design-pattern/blob/main/src/com/example/dessignpattern/creational/factorymethod/PizzaCreator.png)
 - [자바 코드 보러가기](https://github.com/5onchangwoo/design-pattern/tree/main/src/com/example/dessignpattern/creational/factorymethod)
 
