@@ -40,7 +40,7 @@
 ## 6. Algorithm & Data Structure
 
 ## 7. Language
-### JAVA
+  ### JAVA
 - [JVM](https://github.com/5onchangwoo/computer-sciences/blob/main/language/java/JVM.md)
 
 ## 8. Framework & Library
