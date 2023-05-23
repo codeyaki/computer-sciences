@@ -22,7 +22,7 @@
 ### 생성 패턴
 - [싱글톤 패턴(Singleton)](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/creational/singleton.md)
 - [팩토리 메서드 패턴(Factory method)](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/creational/factory_method.md)
-- [추상 팩토리 패턴(Abstract_Factory](https://github.com/5onchangwoo/computer-sciences/blob/main/design-patterncreational/abstract_factory.md)
+- [추상 팩토리 패턴(Abstract_Factory)](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/creational/abstract_factory.md)
 
 ## 4. Infra
 - [컨테이너](https://github.com/5onchangwoo/computer-sciences/blob/main/Infra/Container.md)
