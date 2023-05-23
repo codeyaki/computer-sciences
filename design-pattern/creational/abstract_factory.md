@@ -28,4 +28,5 @@
 - 코드 복잡성 증가
 
 ## 구현 방법 (자바)
+![image](https://github.com/5onchangwoo/design-pattern/blob/main/src/com/example/dessignpattern/creational/abstractfactory/abstract-factory.png)  
 [코드 보러가기](https://github.com/5onchangwoo/design-pattern/tree/main/src/com/example/dessignpattern/creational/abstractfactory)
