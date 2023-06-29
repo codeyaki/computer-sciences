@@ -27,6 +27,7 @@
 
 ## 4. Infra
 - [컨테이너](https://github.com/5onchangwoo/computer-sciences/blob/main/Infra/Container.md)
+- [도커 파일 (Dockerfile)](https://teching.tistory.com/166)
 
 ### AWS
 - [AWS란](https://github.com/5onchangwoo/computer-sciences/blob/main/aws/AWS%EB%9E%80.md)
