@@ -25,6 +25,7 @@
 - [팩토리 메서드 패턴(Factory method)](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/creational/factory_method.md)
 - [추상 팩토리 패턴(Abstract_Factory)](https://github.com/5onchangwoo/computer-sciences/blob/main/design-pattern/creational/abstract_factory.md)
 - [빌더 패턴(Builder)](https://teching.tistory.com/m/163)
+- [프로토타입 패턴](https://teching.tistory.com/m/169)
 
 ## 4. Infra
 - [컨테이너](https://github.com/5onchangwoo/computer-sciences/blob/main/Infra/Container.md)
